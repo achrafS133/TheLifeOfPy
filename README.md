@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Latest-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-purple.svg)
+
 
 *An Artificial Life Simulation powered by Neural Networks and Evolutionary Algorithms*
 
@@ -17,19 +17,11 @@
 
 <div align="center">
 
-<!-- 
-  📹 TO ADD THE DEMO VIDEO:
-  1. Edit this README on GitHub.com
-  2. Drag and drop demo.mp4 into the editor below this comment
-  3. GitHub will generate a video link automatically
-  4. Delete this comment block after uploading
--->
+![TheLifeOfPy Demo](demo.gif)
 
 *Watch organisms evolve in real-time as they learn to find food and survive!*
 
 </div>
-
-> 🎥 **[Click here to watch the demo video](demo.mp4)** - Download and play locally if viewing on GitHub.
 
 ---
 
