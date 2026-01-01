@@ -185,15 +185,6 @@ When reproducing, offspring neural networks mutate with:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-- 🐛 Report bugs
-- 💡 Suggest new features
-- 🔧 Submit pull requests
-
----
 
 
 
