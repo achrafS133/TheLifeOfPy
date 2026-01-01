@@ -17,15 +17,19 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/demo.mp4
-
-![TheLifeOfPy Demo](demo.mp4)
+<!-- 
+  📹 TO ADD THE DEMO VIDEO:
+  1. Edit this README on GitHub.com
+  2. Drag and drop demo.mp4 into the editor below this comment
+  3. GitHub will generate a video link automatically
+  4. Delete this comment block after uploading
+-->
 
 *Watch organisms evolve in real-time as they learn to find food and survive!*
 
 </div>
 
-> **📌 Note**: If the video doesn't play above, you can [download and watch demo.mp4](demo.mp4) directly.
+> 🎥 **[Click here to watch the demo video](demo.mp4)** - Download and play locally if viewing on GitHub.
 
 ---
 
