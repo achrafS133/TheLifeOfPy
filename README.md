@@ -15,12 +15,17 @@
 
 ## 🎬 Demo
 
+<div align="center">
+
 https://github.com/user-attachments/assets/demo.mp4
 
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![TheLifeOfPy Demo](demo.mp4)
+
+*Watch organisms evolve in real-time as they learn to find food and survive!*
+
+</div>
+
+> **📌 Note**: If the video doesn't play above, you can [download and watch demo.mp4](demo.mp4) directly.
 
 ---
 
@@ -93,7 +98,7 @@ TheLifeOfPy/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/TheLifeOfPy.git
+   git clone https://github.com/achrafS133/TheLifeOfPy.git
    cd TheLifeOfPy
    ```
 
@@ -194,11 +199,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
